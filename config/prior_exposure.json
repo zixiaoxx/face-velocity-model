@@ -1,0 +1,1505 @@
+{
+  "description": "Images inspected in earlier development work; keep their identities in development when recreating the split. Names only, no photos or vectors.",
+  "images": [
+    {
+      "source_member": "lfw/Ana_Palacio/Ana_Palacio_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Ana_Palacio/Ana_Palacio_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Ana_Palacio/Ana_Palacio_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Ana_Palacio/Ana_Palacio_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Ana_Palacio/Ana_Palacio_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Ann_Veneman/Ann_Veneman_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Ann_Veneman/Ann_Veneman_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Ann_Veneman/Ann_Veneman_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Ann_Veneman/Ann_Veneman_0010.jpg"
+    },
+    {
+      "source_member": "lfw/Ann_Veneman/Ann_Veneman_0011.jpg"
+    },
+    {
+      "source_member": "lfw/Antonio_Banderas/Antonio_Banderas_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Antonio_Banderas/Antonio_Banderas_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Antonio_Banderas/Antonio_Banderas_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Antonio_Banderas/Antonio_Banderas_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Antonio_Banderas/Antonio_Banderas_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Arminio_Fraga/Arminio_Fraga_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Arminio_Fraga/Arminio_Fraga_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Arminio_Fraga/Arminio_Fraga_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Arminio_Fraga/Arminio_Fraga_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Arminio_Fraga/Arminio_Fraga_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Arnold_Schwarzenegger/Arnold_Schwarzenegger_0010.jpg"
+    },
+    {
+      "source_member": "lfw/Arnold_Schwarzenegger/Arnold_Schwarzenegger_0032.jpg"
+    },
+    {
+      "source_member": "lfw/Arnold_Schwarzenegger/Arnold_Schwarzenegger_0033.jpg"
+    },
+    {
+      "source_member": "lfw/Arnold_Schwarzenegger/Arnold_Schwarzenegger_0037.jpg"
+    },
+    {
+      "source_member": "lfw/Arnold_Schwarzenegger/Arnold_Schwarzenegger_0042.jpg"
+    },
+    {
+      "source_member": "lfw/Ashanti/Ashanti_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Ashanti/Ashanti_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Ashanti/Ashanti_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Ashanti/Ashanti_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Ashanti/Ashanti_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Atal_Bihari_Vajpayee/Atal_Bihari_Vajpayee_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Atal_Bihari_Vajpayee/Atal_Bihari_Vajpayee_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Atal_Bihari_Vajpayee/Atal_Bihari_Vajpayee_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Atal_Bihari_Vajpayee/Atal_Bihari_Vajpayee_0013.jpg"
+    },
+    {
+      "source_member": "lfw/Atal_Bihari_Vajpayee/Atal_Bihari_Vajpayee_0022.jpg"
+    },
+    {
+      "source_member": "lfw/Bernard_Law/Bernard_Law_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Bernard_Law/Bernard_Law_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Bernard_Law/Bernard_Law_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Bernard_Law/Bernard_Law_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Bernard_Law/Bernard_Law_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Bill_Frist/Bill_Frist_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Bill_Frist/Bill_Frist_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Bill_Frist/Bill_Frist_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Bill_Frist/Bill_Frist_0007.jpg"
+    },
+    {
+      "source_member": "lfw/Bill_Frist/Bill_Frist_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Bill_Graham/Bill_Graham_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Bill_Graham/Bill_Graham_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Bill_Graham/Bill_Graham_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Bill_Graham/Bill_Graham_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Bill_Graham/Bill_Graham_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Binyamin_Ben-Eliezer/Binyamin_Ben-Eliezer_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Binyamin_Ben-Eliezer/Binyamin_Ben-Eliezer_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Binyamin_Ben-Eliezer/Binyamin_Ben-Eliezer_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Binyamin_Ben-Eliezer/Binyamin_Ben-Eliezer_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Binyamin_Ben-Eliezer/Binyamin_Ben-Eliezer_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Calista_Flockhart/Calista_Flockhart_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Calista_Flockhart/Calista_Flockhart_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Calista_Flockhart/Calista_Flockhart_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Calista_Flockhart/Calista_Flockhart_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Calista_Flockhart/Calista_Flockhart_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Catherine_Deneuve/Catherine_Deneuve_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Catherine_Deneuve/Catherine_Deneuve_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Catherine_Deneuve/Catherine_Deneuve_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Catherine_Deneuve/Catherine_Deneuve_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Catherine_Deneuve/Catherine_Deneuve_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Celine_Dion/Celine_Dion_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Celine_Dion/Celine_Dion_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Celine_Dion/Celine_Dion_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Celine_Dion/Celine_Dion_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Celine_Dion/Celine_Dion_0007.jpg"
+    },
+    {
+      "source_member": "lfw/Charles_Moose/Charles_Moose_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Charles_Moose/Charles_Moose_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Charles_Moose/Charles_Moose_0009.jpg"
+    },
+    {
+      "source_member": "lfw/Charles_Moose/Charles_Moose_0012.jpg"
+    },
+    {
+      "source_member": "lfw/Charles_Moose/Charles_Moose_0013.jpg"
+    },
+    {
+      "source_member": "lfw/Charlton_Heston/Charlton_Heston_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Charlton_Heston/Charlton_Heston_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Charlton_Heston/Charlton_Heston_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Charlton_Heston/Charlton_Heston_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Charlton_Heston/Charlton_Heston_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Chen_Shui-bian/Chen_Shui-bian_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Chen_Shui-bian/Chen_Shui-bian_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Chen_Shui-bian/Chen_Shui-bian_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Chen_Shui-bian/Chen_Shui-bian_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Chen_Shui-bian/Chen_Shui-bian_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Claudia_Pechstein/Claudia_Pechstein_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Claudia_Pechstein/Claudia_Pechstein_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Claudia_Pechstein/Claudia_Pechstein_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Claudia_Pechstein/Claudia_Pechstein_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Claudia_Pechstein/Claudia_Pechstein_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Clint_Eastwood/Clint_Eastwood_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Clint_Eastwood/Clint_Eastwood_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Clint_Eastwood/Clint_Eastwood_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Clint_Eastwood/Clint_Eastwood_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Clint_Eastwood/Clint_Eastwood_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Cruz_Bustamante/Cruz_Bustamante_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Cruz_Bustamante/Cruz_Bustamante_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Cruz_Bustamante/Cruz_Bustamante_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Cruz_Bustamante/Cruz_Bustamante_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Cruz_Bustamante/Cruz_Bustamante_0005.jpg"
+    },
+    {
+      "source_member": "lfw/David_Heymann/David_Heymann_0001.jpg"
+    },
+    {
+      "source_member": "lfw/David_Heymann/David_Heymann_0002.jpg"
+    },
+    {
+      "source_member": "lfw/David_Heymann/David_Heymann_0003.jpg"
+    },
+    {
+      "source_member": "lfw/David_Heymann/David_Heymann_0004.jpg"
+    },
+    {
+      "source_member": "lfw/David_Heymann/David_Heymann_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Dick_Cheney/Dick_Cheney_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Dick_Cheney/Dick_Cheney_0007.jpg"
+    },
+    {
+      "source_member": "lfw/Dick_Cheney/Dick_Cheney_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Dick_Cheney/Dick_Cheney_0011.jpg"
+    },
+    {
+      "source_member": "lfw/Dick_Cheney/Dick_Cheney_0013.jpg"
+    },
+    {
+      "source_member": "lfw/Elton_John/Elton_John_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Elton_John/Elton_John_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Elton_John/Elton_John_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Elton_John/Elton_John_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Elton_John/Elton_John_0007.jpg"
+    },
+    {
+      "source_member": "lfw/Gray_Davis/Gray_Davis_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Gray_Davis/Gray_Davis_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Gray_Davis/Gray_Davis_0009.jpg"
+    },
+    {
+      "source_member": "lfw/Gray_Davis/Gray_Davis_0013.jpg"
+    },
+    {
+      "source_member": "lfw/Gray_Davis/Gray_Davis_0023.jpg"
+    },
+    {
+      "source_member": "lfw/Gregg_Popovich/Gregg_Popovich_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Gregg_Popovich/Gregg_Popovich_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Gregg_Popovich/Gregg_Popovich_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Gregg_Popovich/Gregg_Popovich_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Gregg_Popovich/Gregg_Popovich_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Guillermo_Coria/Guillermo_Coria_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Guillermo_Coria/Guillermo_Coria_0019.jpg"
+    },
+    {
+      "source_member": "lfw/Guillermo_Coria/Guillermo_Coria_0023.jpg"
+    },
+    {
+      "source_member": "lfw/Guillermo_Coria/Guillermo_Coria_0025.jpg"
+    },
+    {
+      "source_member": "lfw/Guillermo_Coria/Guillermo_Coria_0028.jpg"
+    },
+    {
+      "source_member": "lfw/Gwyneth_Paltrow/Gwyneth_Paltrow_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Gwyneth_Paltrow/Gwyneth_Paltrow_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Gwyneth_Paltrow/Gwyneth_Paltrow_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Gwyneth_Paltrow/Gwyneth_Paltrow_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Gwyneth_Paltrow/Gwyneth_Paltrow_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Hal_Gehman/Hal_Gehman_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Hal_Gehman/Hal_Gehman_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Hal_Gehman/Hal_Gehman_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Hal_Gehman/Hal_Gehman_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Hal_Gehman/Hal_Gehman_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Harrison_Ford/Harrison_Ford_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Harrison_Ford/Harrison_Ford_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Harrison_Ford/Harrison_Ford_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Harrison_Ford/Harrison_Ford_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Harrison_Ford/Harrison_Ford_0010.jpg"
+    },
+    {
+      "source_member": "lfw/Hitomi_Soga/Hitomi_Soga_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Hitomi_Soga/Hitomi_Soga_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Hitomi_Soga/Hitomi_Soga_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Hitomi_Soga/Hitomi_Soga_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Hitomi_Soga/Hitomi_Soga_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Holly_Hunter/Holly_Hunter_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Holly_Hunter/Holly_Hunter_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Holly_Hunter/Holly_Hunter_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Holly_Hunter/Holly_Hunter_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Holly_Hunter/Holly_Hunter_0007.jpg"
+    },
+    {
+      "source_member": "lfw/Hosni_Mubarak/Hosni_Mubarak_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Hosni_Mubarak/Hosni_Mubarak_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Hosni_Mubarak/Hosni_Mubarak_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Hosni_Mubarak/Hosni_Mubarak_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Hosni_Mubarak/Hosni_Mubarak_0009.jpg"
+    },
+    {
+      "source_member": "lfw/Howard_Dean/Howard_Dean_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Howard_Dean/Howard_Dean_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Howard_Dean/Howard_Dean_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Howard_Dean/Howard_Dean_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Howard_Dean/Howard_Dean_0012.jpg"
+    },
+    {
+      "source_member": "lfw/Hu_Jintao/Hu_Jintao_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Hu_Jintao/Hu_Jintao_0007.jpg"
+    },
+    {
+      "source_member": "lfw/Hu_Jintao/Hu_Jintao_0011.jpg"
+    },
+    {
+      "source_member": "lfw/Hu_Jintao/Hu_Jintao_0013.jpg"
+    },
+    {
+      "source_member": "lfw/Hu_Jintao/Hu_Jintao_0014.jpg"
+    },
+    {
+      "source_member": "lfw/Jake_Gyllenhaal/Jake_Gyllenhaal_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Jake_Gyllenhaal/Jake_Gyllenhaal_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Jake_Gyllenhaal/Jake_Gyllenhaal_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Jake_Gyllenhaal/Jake_Gyllenhaal_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Jake_Gyllenhaal/Jake_Gyllenhaal_0005.jpg"
+    },
+    {
+      "source_member": "lfw/James_Kelly/James_Kelly_0002.jpg"
+    },
+    {
+      "source_member": "lfw/James_Kelly/James_Kelly_0004.jpg"
+    },
+    {
+      "source_member": "lfw/James_Kelly/James_Kelly_0005.jpg"
+    },
+    {
+      "source_member": "lfw/James_Kelly/James_Kelly_0006.jpg"
+    },
+    {
+      "source_member": "lfw/James_Kelly/James_Kelly_0010.jpg"
+    },
+    {
+      "source_member": "lfw/Jason_Kidd/Jason_Kidd_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Jason_Kidd/Jason_Kidd_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Jason_Kidd/Jason_Kidd_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Jason_Kidd/Jason_Kidd_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Jason_Kidd/Jason_Kidd_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Jean_Charest/Jean_Charest_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Jean_Charest/Jean_Charest_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Jean_Charest/Jean_Charest_0012.jpg"
+    },
+    {
+      "source_member": "lfw/Jean_Charest/Jean_Charest_0014.jpg"
+    },
+    {
+      "source_member": "lfw/Jean_Charest/Jean_Charest_0015.jpg"
+    },
+    {
+      "source_member": "lfw/Jeong_Se-hyun/Jeong_Se-hyun_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Jeong_Se-hyun/Jeong_Se-hyun_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Jeong_Se-hyun/Jeong_Se-hyun_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Jeong_Se-hyun/Jeong_Se-hyun_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Jeong_Se-hyun/Jeong_Se-hyun_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Jesse_Jackson/Jesse_Jackson_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Jesse_Jackson/Jesse_Jackson_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Jesse_Jackson/Jesse_Jackson_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Jesse_Jackson/Jesse_Jackson_0007.jpg"
+    },
+    {
+      "source_member": "lfw/Jesse_Jackson/Jesse_Jackson_0009.jpg"
+    },
+    {
+      "source_member": "lfw/Jiang_Zemin/Jiang_Zemin_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Jiang_Zemin/Jiang_Zemin_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Jiang_Zemin/Jiang_Zemin_0012.jpg"
+    },
+    {
+      "source_member": "lfw/Jiang_Zemin/Jiang_Zemin_0017.jpg"
+    },
+    {
+      "source_member": "lfw/Jiang_Zemin/Jiang_Zemin_0018.jpg"
+    },
+    {
+      "source_member": "lfw/Jimmy_Carter/Jimmy_Carter_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Jimmy_Carter/Jimmy_Carter_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Jimmy_Carter/Jimmy_Carter_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Jimmy_Carter/Jimmy_Carter_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Jimmy_Carter/Jimmy_Carter_0009.jpg"
+    },
+    {
+      "source_member": "lfw/Jiri_Novak/Jiri_Novak_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Jiri_Novak/Jiri_Novak_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Jiri_Novak/Jiri_Novak_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Jiri_Novak/Jiri_Novak_0009.jpg"
+    },
+    {
+      "source_member": "lfw/Jiri_Novak/Jiri_Novak_0011.jpg"
+    },
+    {
+      "source_member": "lfw/Joe_Lieberman/Joe_Lieberman_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Joe_Lieberman/Joe_Lieberman_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Joe_Lieberman/Joe_Lieberman_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Joe_Lieberman/Joe_Lieberman_0007.jpg"
+    },
+    {
+      "source_member": "lfw/Joe_Lieberman/Joe_Lieberman_0010.jpg"
+    },
+    {
+      "source_member": "lfw/John_Edwards/John_Edwards_0001.jpg"
+    },
+    {
+      "source_member": "lfw/John_Edwards/John_Edwards_0002.jpg"
+    },
+    {
+      "source_member": "lfw/John_Edwards/John_Edwards_0004.jpg"
+    },
+    {
+      "source_member": "lfw/John_Edwards/John_Edwards_0005.jpg"
+    },
+    {
+      "source_member": "lfw/John_Edwards/John_Edwards_0007.jpg"
+    },
+    {
+      "source_member": "lfw/John_Howard/John_Howard_0005.jpg"
+    },
+    {
+      "source_member": "lfw/John_Howard/John_Howard_0009.jpg"
+    },
+    {
+      "source_member": "lfw/John_Howard/John_Howard_0010.jpg"
+    },
+    {
+      "source_member": "lfw/John_Howard/John_Howard_0016.jpg"
+    },
+    {
+      "source_member": "lfw/John_Howard/John_Howard_0019.jpg"
+    },
+    {
+      "source_member": "lfw/John_Negroponte/John_Negroponte_0002.jpg"
+    },
+    {
+      "source_member": "lfw/John_Negroponte/John_Negroponte_0005.jpg"
+    },
+    {
+      "source_member": "lfw/John_Negroponte/John_Negroponte_0007.jpg"
+    },
+    {
+      "source_member": "lfw/John_Negroponte/John_Negroponte_0027.jpg"
+    },
+    {
+      "source_member": "lfw/John_Negroponte/John_Negroponte_0029.jpg"
+    },
+    {
+      "source_member": "lfw/John_Paul_II/John_Paul_II_0005.jpg"
+    },
+    {
+      "source_member": "lfw/John_Paul_II/John_Paul_II_0006.jpg"
+    },
+    {
+      "source_member": "lfw/John_Paul_II/John_Paul_II_0007.jpg"
+    },
+    {
+      "source_member": "lfw/John_Paul_II/John_Paul_II_0009.jpg"
+    },
+    {
+      "source_member": "lfw/John_Paul_II/John_Paul_II_0010.jpg"
+    },
+    {
+      "source_member": "lfw/John_Stockton/John_Stockton_0001.jpg"
+    },
+    {
+      "source_member": "lfw/John_Stockton/John_Stockton_0002.jpg"
+    },
+    {
+      "source_member": "lfw/John_Stockton/John_Stockton_0003.jpg"
+    },
+    {
+      "source_member": "lfw/John_Stockton/John_Stockton_0004.jpg"
+    },
+    {
+      "source_member": "lfw/John_Stockton/John_Stockton_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Jose_Maria_Aznar/Jose_Maria_Aznar_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Jose_Maria_Aznar/Jose_Maria_Aznar_0009.jpg"
+    },
+    {
+      "source_member": "lfw/Jose_Maria_Aznar/Jose_Maria_Aznar_0012.jpg"
+    },
+    {
+      "source_member": "lfw/Jose_Maria_Aznar/Jose_Maria_Aznar_0013.jpg"
+    },
+    {
+      "source_member": "lfw/Jose_Maria_Aznar/Jose_Maria_Aznar_0017.jpg"
+    },
+    {
+      "source_member": "lfw/Kalpana_Chawla/Kalpana_Chawla_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Kalpana_Chawla/Kalpana_Chawla_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Kalpana_Chawla/Kalpana_Chawla_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Kalpana_Chawla/Kalpana_Chawla_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Kalpana_Chawla/Kalpana_Chawla_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Kim_Clijsters/Kim_Clijsters_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Kim_Clijsters/Kim_Clijsters_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Kim_Clijsters/Kim_Clijsters_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Kim_Clijsters/Kim_Clijsters_0009.jpg"
+    },
+    {
+      "source_member": "lfw/Kim_Clijsters/Kim_Clijsters_0013.jpg"
+    },
+    {
+      "source_member": "lfw/LeBron_James/LeBron_James_0001.jpg"
+    },
+    {
+      "source_member": "lfw/LeBron_James/LeBron_James_0002.jpg"
+    },
+    {
+      "source_member": "lfw/LeBron_James/LeBron_James_0003.jpg"
+    },
+    {
+      "source_member": "lfw/LeBron_James/LeBron_James_0004.jpg"
+    },
+    {
+      "source_member": "lfw/LeBron_James/LeBron_James_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Leonid_Kuchma/Leonid_Kuchma_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Leonid_Kuchma/Leonid_Kuchma_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Leonid_Kuchma/Leonid_Kuchma_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Leonid_Kuchma/Leonid_Kuchma_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Leonid_Kuchma/Leonid_Kuchma_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Lindsay_Davenport/Lindsay_Davenport_0009.jpg"
+    },
+    {
+      "source_member": "lfw/Lindsay_Davenport/Lindsay_Davenport_0012.jpg"
+    },
+    {
+      "source_member": "lfw/Lindsay_Davenport/Lindsay_Davenport_0014.jpg"
+    },
+    {
+      "source_member": "lfw/Lindsay_Davenport/Lindsay_Davenport_0015.jpg"
+    },
+    {
+      "source_member": "lfw/Lindsay_Davenport/Lindsay_Davenport_0022.jpg"
+    },
+    {
+      "source_member": "lfw/Liza_Minnelli/Liza_Minnelli_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Liza_Minnelli/Liza_Minnelli_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Liza_Minnelli/Liza_Minnelli_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Liza_Minnelli/Liza_Minnelli_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Liza_Minnelli/Liza_Minnelli_0007.jpg"
+    },
+    {
+      "source_member": "lfw/Marcelo_Rios/Marcelo_Rios_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Marcelo_Rios/Marcelo_Rios_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Marcelo_Rios/Marcelo_Rios_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Marcelo_Rios/Marcelo_Rios_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Marcelo_Rios/Marcelo_Rios_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Mark_Hurlbert/Mark_Hurlbert_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Mark_Hurlbert/Mark_Hurlbert_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Mark_Hurlbert/Mark_Hurlbert_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Mark_Hurlbert/Mark_Hurlbert_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Mark_Hurlbert/Mark_Hurlbert_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Martin_Scorsese/Martin_Scorsese_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Martin_Scorsese/Martin_Scorsese_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Martin_Scorsese/Martin_Scorsese_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Martin_Scorsese/Martin_Scorsese_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Martin_Scorsese/Martin_Scorsese_0007.jpg"
+    },
+    {
+      "source_member": "lfw/Martina_McBride/Martina_McBride_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Martina_McBride/Martina_McBride_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Martina_McBride/Martina_McBride_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Martina_McBride/Martina_McBride_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Martina_McBride/Martina_McBride_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Michael_Bloomberg/Michael_Bloomberg_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Michael_Bloomberg/Michael_Bloomberg_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Michael_Bloomberg/Michael_Bloomberg_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Michael_Bloomberg/Michael_Bloomberg_0017.jpg"
+    },
+    {
+      "source_member": "lfw/Michael_Bloomberg/Michael_Bloomberg_0020.jpg"
+    },
+    {
+      "source_member": "lfw/Michael_Phelps/Michael_Phelps_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Michael_Phelps/Michael_Phelps_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Michael_Phelps/Michael_Phelps_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Michael_Phelps/Michael_Phelps_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Michael_Phelps/Michael_Phelps_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Mick_Jagger/Mick_Jagger_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Mick_Jagger/Mick_Jagger_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Mick_Jagger/Mick_Jagger_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Mick_Jagger/Mick_Jagger_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Mick_Jagger/Mick_Jagger_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Mike_Krzyzewski/Mike_Krzyzewski_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Mike_Krzyzewski/Mike_Krzyzewski_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Mike_Krzyzewski/Mike_Krzyzewski_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Mike_Krzyzewski/Mike_Krzyzewski_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Mike_Krzyzewski/Mike_Krzyzewski_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Mike_Weir/Mike_Weir_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Mike_Weir/Mike_Weir_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Mike_Weir/Mike_Weir_0007.jpg"
+    },
+    {
+      "source_member": "lfw/Mike_Weir/Mike_Weir_0010.jpg"
+    },
+    {
+      "source_member": "lfw/Mike_Weir/Mike_Weir_0011.jpg"
+    },
+    {
+      "source_member": "lfw/Mohamed_ElBaradei/Mohamed_ElBaradei_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Mohamed_ElBaradei/Mohamed_ElBaradei_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Mohamed_ElBaradei/Mohamed_ElBaradei_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Mohamed_ElBaradei/Mohamed_ElBaradei_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Mohamed_ElBaradei/Mohamed_ElBaradei_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Mohammed_Al-Douri/Mohammed_Al-Douri_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Mohammed_Al-Douri/Mohammed_Al-Douri_0007.jpg"
+    },
+    {
+      "source_member": "lfw/Mohammed_Al-Douri/Mohammed_Al-Douri_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Mohammed_Al-Douri/Mohammed_Al-Douri_0011.jpg"
+    },
+    {
+      "source_member": "lfw/Mohammed_Al-Douri/Mohammed_Al-Douri_0012.jpg"
+    },
+    {
+      "source_member": "lfw/Muhammad_Saeed_al-Sahhaf/Muhammad_Saeed_al-Sahhaf_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Muhammad_Saeed_al-Sahhaf/Muhammad_Saeed_al-Sahhaf_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Muhammad_Saeed_al-Sahhaf/Muhammad_Saeed_al-Sahhaf_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Muhammad_Saeed_al-Sahhaf/Muhammad_Saeed_al-Sahhaf_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Muhammad_Saeed_al-Sahhaf/Muhammad_Saeed_al-Sahhaf_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Natalie_Maines/Natalie_Maines_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Natalie_Maines/Natalie_Maines_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Natalie_Maines/Natalie_Maines_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Natalie_Maines/Natalie_Maines_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Natalie_Maines/Natalie_Maines_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Nestor_Kirchner/Nestor_Kirchner_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Nestor_Kirchner/Nestor_Kirchner_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Nestor_Kirchner/Nestor_Kirchner_0013.jpg"
+    },
+    {
+      "source_member": "lfw/Nestor_Kirchner/Nestor_Kirchner_0016.jpg"
+    },
+    {
+      "source_member": "lfw/Nestor_Kirchner/Nestor_Kirchner_0021.jpg"
+    },
+    {
+      "source_member": "lfw/Nia_Vardalos/Nia_Vardalos_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Nia_Vardalos/Nia_Vardalos_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Nia_Vardalos/Nia_Vardalos_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Nia_Vardalos/Nia_Vardalos_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Nia_Vardalos/Nia_Vardalos_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Nick_Nolte/Nick_Nolte_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Nick_Nolte/Nick_Nolte_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Nick_Nolte/Nick_Nolte_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Nick_Nolte/Nick_Nolte_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Nick_Nolte/Nick_Nolte_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Nicole_Kidman/Nicole_Kidman_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Nicole_Kidman/Nicole_Kidman_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Nicole_Kidman/Nicole_Kidman_0010.jpg"
+    },
+    {
+      "source_member": "lfw/Nicole_Kidman/Nicole_Kidman_0013.jpg"
+    },
+    {
+      "source_member": "lfw/Nicole_Kidman/Nicole_Kidman_0017.jpg"
+    },
+    {
+      "source_member": "lfw/Norah_Jones/Norah_Jones_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Norah_Jones/Norah_Jones_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Norah_Jones/Norah_Jones_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Norah_Jones/Norah_Jones_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Norah_Jones/Norah_Jones_0013.jpg"
+    },
+    {
+      "source_member": "lfw/Norm_Coleman/Norm_Coleman_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Norm_Coleman/Norm_Coleman_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Norm_Coleman/Norm_Coleman_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Norm_Coleman/Norm_Coleman_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Norm_Coleman/Norm_Coleman_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Oswaldo_Paya/Oswaldo_Paya_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Oswaldo_Paya/Oswaldo_Paya_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Oswaldo_Paya/Oswaldo_Paya_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Oswaldo_Paya/Oswaldo_Paya_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Oswaldo_Paya/Oswaldo_Paya_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Paul_Wolfowitz/Paul_Wolfowitz_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Paul_Wolfowitz/Paul_Wolfowitz_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Paul_Wolfowitz/Paul_Wolfowitz_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Paul_Wolfowitz/Paul_Wolfowitz_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Paul_Wolfowitz/Paul_Wolfowitz_0009.jpg"
+    },
+    {
+      "source_member": "lfw/Queen_Elizabeth_II/Queen_Elizabeth_II_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Queen_Elizabeth_II/Queen_Elizabeth_II_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Queen_Elizabeth_II/Queen_Elizabeth_II_0010.jpg"
+    },
+    {
+      "source_member": "lfw/Queen_Elizabeth_II/Queen_Elizabeth_II_0012.jpg"
+    },
+    {
+      "source_member": "lfw/Queen_Elizabeth_II/Queen_Elizabeth_II_0013.jpg"
+    },
+    {
+      "source_member": "lfw/Recep_Tayyip_Erdogan/Recep_Tayyip_Erdogan_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Recep_Tayyip_Erdogan/Recep_Tayyip_Erdogan_0013.jpg"
+    },
+    {
+      "source_member": "lfw/Recep_Tayyip_Erdogan/Recep_Tayyip_Erdogan_0014.jpg"
+    },
+    {
+      "source_member": "lfw/Recep_Tayyip_Erdogan/Recep_Tayyip_Erdogan_0028.jpg"
+    },
+    {
+      "source_member": "lfw/Recep_Tayyip_Erdogan/Recep_Tayyip_Erdogan_0029.jpg"
+    },
+    {
+      "source_member": "lfw/Renee_Zellweger/Renee_Zellweger_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Renee_Zellweger/Renee_Zellweger_0007.jpg"
+    },
+    {
+      "source_member": "lfw/Renee_Zellweger/Renee_Zellweger_0011.jpg"
+    },
+    {
+      "source_member": "lfw/Renee_Zellweger/Renee_Zellweger_0013.jpg"
+    },
+    {
+      "source_member": "lfw/Renee_Zellweger/Renee_Zellweger_0014.jpg"
+    },
+    {
+      "source_member": "lfw/Richard_Armitage/Richard_Armitage_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Richard_Armitage/Richard_Armitage_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Richard_Armitage/Richard_Armitage_0007.jpg"
+    },
+    {
+      "source_member": "lfw/Richard_Armitage/Richard_Armitage_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Richard_Armitage/Richard_Armitage_0009.jpg"
+    },
+    {
+      "source_member": "lfw/Richard_Gephardt/Richard_Gephardt_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Richard_Gephardt/Richard_Gephardt_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Richard_Gephardt/Richard_Gephardt_0007.jpg"
+    },
+    {
+      "source_member": "lfw/Richard_Gephardt/Richard_Gephardt_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Richard_Gephardt/Richard_Gephardt_0010.jpg"
+    },
+    {
+      "source_member": "lfw/Rick_Perry/Rick_Perry_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Rick_Perry/Rick_Perry_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Rick_Perry/Rick_Perry_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Rick_Perry/Rick_Perry_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Rick_Perry/Rick_Perry_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Robert_Kocharian/Robert_Kocharian_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Robert_Kocharian/Robert_Kocharian_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Robert_Kocharian/Robert_Kocharian_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Robert_Kocharian/Robert_Kocharian_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Robert_Kocharian/Robert_Kocharian_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Robert_Zoellick/Robert_Zoellick_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Robert_Zoellick/Robert_Zoellick_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Robert_Zoellick/Robert_Zoellick_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Robert_Zoellick/Robert_Zoellick_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Robert_Zoellick/Robert_Zoellick_0007.jpg"
+    },
+    {
+      "source_member": "lfw/Roger_Moore/Roger_Moore_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Roger_Moore/Roger_Moore_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Roger_Moore/Roger_Moore_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Roger_Moore/Roger_Moore_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Roger_Moore/Roger_Moore_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Rudolph_Giuliani/Rudolph_Giuliani_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Rudolph_Giuliani/Rudolph_Giuliani_0007.jpg"
+    },
+    {
+      "source_member": "lfw/Rudolph_Giuliani/Rudolph_Giuliani_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Rudolph_Giuliani/Rudolph_Giuliani_0013.jpg"
+    },
+    {
+      "source_member": "lfw/Rudolph_Giuliani/Rudolph_Giuliani_0018.jpg"
+    },
+    {
+      "source_member": "lfw/Sarah_Jessica_Parker/Sarah_Jessica_Parker_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Sarah_Jessica_Parker/Sarah_Jessica_Parker_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Sarah_Jessica_Parker/Sarah_Jessica_Parker_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Sarah_Jessica_Parker/Sarah_Jessica_Parker_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Sarah_Jessica_Parker/Sarah_Jessica_Parker_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Sharon_Stone/Sharon_Stone_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Sharon_Stone/Sharon_Stone_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Sharon_Stone/Sharon_Stone_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Sharon_Stone/Sharon_Stone_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Sharon_Stone/Sharon_Stone_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Silvan_Shalom/Silvan_Shalom_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Silvan_Shalom/Silvan_Shalom_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Silvan_Shalom/Silvan_Shalom_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Silvan_Shalom/Silvan_Shalom_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Silvan_Shalom/Silvan_Shalom_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Silvio_Berlusconi/Silvio_Berlusconi_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Silvio_Berlusconi/Silvio_Berlusconi_0007.jpg"
+    },
+    {
+      "source_member": "lfw/Silvio_Berlusconi/Silvio_Berlusconi_0014.jpg"
+    },
+    {
+      "source_member": "lfw/Silvio_Berlusconi/Silvio_Berlusconi_0026.jpg"
+    },
+    {
+      "source_member": "lfw/Silvio_Berlusconi/Silvio_Berlusconi_0028.jpg"
+    },
+    {
+      "source_member": "lfw/Steffi_Graf/Steffi_Graf_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Steffi_Graf/Steffi_Graf_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Steffi_Graf/Steffi_Graf_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Steffi_Graf/Steffi_Graf_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Steffi_Graf/Steffi_Graf_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Tang_Jiaxuan/Tang_Jiaxuan_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Tang_Jiaxuan/Tang_Jiaxuan_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Tang_Jiaxuan/Tang_Jiaxuan_0009.jpg"
+    },
+    {
+      "source_member": "lfw/Tang_Jiaxuan/Tang_Jiaxuan_0010.jpg"
+    },
+    {
+      "source_member": "lfw/Tang_Jiaxuan/Tang_Jiaxuan_0011.jpg"
+    },
+    {
+      "source_member": "lfw/Tom_Cruise/Tom_Cruise_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Tom_Cruise/Tom_Cruise_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Tom_Cruise/Tom_Cruise_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Tom_Cruise/Tom_Cruise_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Tom_Cruise/Tom_Cruise_0007.jpg"
+    },
+    {
+      "source_member": "lfw/Tom_Hanks/Tom_Hanks_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Tom_Hanks/Tom_Hanks_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Tom_Hanks/Tom_Hanks_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Tom_Hanks/Tom_Hanks_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Tom_Hanks/Tom_Hanks_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Tommy_Franks/Tommy_Franks_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Tommy_Franks/Tommy_Franks_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Tommy_Franks/Tommy_Franks_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Tommy_Franks/Tommy_Franks_0011.jpg"
+    },
+    {
+      "source_member": "lfw/Tommy_Franks/Tommy_Franks_0016.jpg"
+    },
+    {
+      "source_member": "lfw/Valentino_Rossi/Valentino_Rossi_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Valentino_Rossi/Valentino_Rossi_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Valentino_Rossi/Valentino_Rossi_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Valentino_Rossi/Valentino_Rossi_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Valentino_Rossi/Valentino_Rossi_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Yao_Ming/Yao_Ming_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Yao_Ming/Yao_Ming_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Yao_Ming/Yao_Ming_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Yao_Ming/Yao_Ming_0007.jpg"
+    },
+    {
+      "source_member": "lfw/Yao_Ming/Yao_Ming_0008.jpg"
+    },
+    {
+      "source_member": "lfw/Yashwant_Sinha/Yashwant_Sinha_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Yashwant_Sinha/Yashwant_Sinha_0004.jpg"
+    },
+    {
+      "source_member": "lfw/Yashwant_Sinha/Yashwant_Sinha_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Yashwant_Sinha/Yashwant_Sinha_0006.jpg"
+    },
+    {
+      "source_member": "lfw/Yashwant_Sinha/Yashwant_Sinha_0007.jpg"
+    },
+    {
+      "source_member": "lfw/Yoko_Ono/Yoko_Ono_0001.jpg"
+    },
+    {
+      "source_member": "lfw/Yoko_Ono/Yoko_Ono_0002.jpg"
+    },
+    {
+      "source_member": "lfw/Yoko_Ono/Yoko_Ono_0003.jpg"
+    },
+    {
+      "source_member": "lfw/Yoko_Ono/Yoko_Ono_0005.jpg"
+    },
+    {
+      "source_member": "lfw/Yoko_Ono/Yoko_Ono_0006.jpg"
+    }
+  ]
+}

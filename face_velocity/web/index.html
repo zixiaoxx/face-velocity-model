@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Face Velocity · Dynamic replay</title>
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
+  <body>
+    <main>
+      <section class="controls" aria-label="Replay setup">
+        <label
+          >Source<select id="source">
+            <option value="heldout">Held-out identities</option>
+            <option value="development">Development identities</option>
+            <option value="upload">Upload images</option>
+          </select></label
+        >
+        <label
+          >Order<select id="seed">
+            <option>42</option>
+            <option>43</option>
+            <option>44</option>
+          </select></label
+        >
+        <button id="start">Start an empty gallery</button
+        ><button id="resume">Resume saved replay</button>
+        <label
+          >Run to event<input id="target" type="number" min="1" value="25"
+        /></label>
+        <button id="run" disabled>Run</button
+        ><button id="stop" disabled>Pause</button>
+        <button id="present" class="secondary">Present fullscreen</button>
+      </section>
+      <p id="error" role="alert"></p>
+      <form id="upload" hidden>
+        <label
+          >Photo<input type="file" id="file" accept="image/*" required
+        /></label>
+        <label>Event ID<input id="event-id" value="event-1" required /></label>
+        <label
+          >Timestamp (UTC)<input
+            id="event-time"
+            type="datetime-local"
+            step="1"
+            required
+        /></label>
+        <button id="submit-upload">Submit image</button>
+      </form>
+      <div id="presentation-shell" class="presentation-shell">
+        <section
+          id="demo-frame"
+          class="demo-frame"
+          aria-label="Face Velocity presentation"
+        >
+          <header>
+            <div>
+              <span class="eyebrow">FACE VELOCITY</span>
+              <h1>From a new image to a window count</h1>
+            </div>
+            <div class="policy">
+              <b>Accept ≥ 0.385</b
+              ><span>Reference ≥ 0.435 · Last 24 hours</span>
+            </div>
+            <button id="exit-present" class="secondary" hidden>
+              Exit fullscreen
+            </button>
+          </header>
+          <div class="replay-toolbar">
+            <h2 id="progress">Ready for the first submission</h2>
+            <div id="scrub" hidden>
+              <label
+                >Event<input id="cursor" type="range" min="0" value="0" /><span
+                  id="cursor-label"
+                ></span
+              ></label>
+            </div>
+            <button id="previous" class="secondary" disabled>← Back</button>
+            <button id="next" disabled>Next submission →</button>
+          </div>
+          <div class="demo-body">
+            <section class="workflow" aria-label="Current submission">
+              <article class="input-step">
+                <h3>1 · Incoming image</h3>
+                <div class="input-content">
+                  <div id="incoming" class="empty">
+                    Start a replay or upload a photo.
+                  </div>
+                  <div id="input-meta"></div>
+                </div>
+              </article>
+              <article class="match-step">
+                <h3>2 · Match and assign</h3>
+                <div id="match" class="empty">
+                  Search earlier references only.
+                </div>
+                <div id="decision"></div>
+              </article>
+              <article class="count-step">
+                <h3>3 · Window count</h3>
+                <div class="count-content">
+                  <div id="count" class="bigcount">—</div>
+                  <div>
+                    <p class="count-caption">Including this submission</p>
+                    <p id="window"></p>
+                    <div id="outcome"></div>
+                  </div>
+                </div>
+              </article>
+            </section>
+            <section class="gallery-panel" aria-label="Dynamic gallery">
+              <div class="gallery-heading">
+                <div>
+                  <h2 id="gallery-title">Dynamic gallery</h2>
+                  <p id="gallery-description">One row per assigned identity.</p>
+                </div>
+                <label
+                  >Show<select id="gallery-filter">
+                    <option value="all">All identities</option>
+                    <option value="identity">Current identity</option>
+                    <option value="references">References only</option>
+                  </select></label
+                >
+              </div>
+              <div class="gallery-legend">
+                <span><i class="legend-current"></i>Current submission</span
+                ><span><i class="legend-winner"></i>Matched reference</span
+                ><label class="truth"
+                  ><input id="truth" type="checkbox" />Evaluator truth</label
+                >
+              </div>
+              <div id="gallery" class="gallery">
+                <p class="empty">The gallery is empty.</p>
+              </div>
+            </section>
+          </div>
+          <div class="stage-footer">
+            <p id="mode">
+              Sequential replay uses evaluated CASIA embeddings. Matching and
+              storage run now.
+            </p>
+            <p id="running-metrics">No scored queries yet.</p>
+          </div>
+        </section>
+      </div>
+      <details class="supporting">
+        <summary>How this demo runs, evaluation scope and reproduction</summary>
+        <p>
+          Browser → FastAPI → SCRFD / five-point alignment / CASIA R50 → dynamic
+          identity decision ↔ PostgreSQL.
+        </p>
+        <p>
+          Sequential replay uses cached evaluated embeddings. The API recomputes
+          each gallery search and stores events and references in PostgreSQL.
+          Upload mode runs extraction live.
+        </p>
+        <p>
+          The gallery shows only events available at the inspected point. Replay
+          measurements summarize all processed queries. Ground-truth labels
+          enter evaluation only after matching; one historical error can affect
+          multiple later queries.
+        </p>
+        <p>
+          Docker Compose starts the application and database. See the repository
+          README for model/data acquisition, experiments and demo setup.
+          Pretrained weights have non-commercial research restrictions; photos
+          and model files are acquired separately.
+        </p>
+        <p id="limitations"></p>
+      </details>
+    </main>
+    <script src="/static/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,42 @@
+name: face-velocity-demo
+services:
+  database:
+    image: postgres:17
+    environment:
+      POSTGRES_USER: face_velocity
+      POSTGRES_DB: face_velocity
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}
+    volumes:
+      - database_data:/var/lib/postgresql/data
+    ports:
+      - "127.0.0.1:${DATABASE_PORT:-55434}:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U face_velocity -d face_velocity"]
+      interval: 3s
+      timeout: 3s
+      retries: 20
+  app:
+    build: .
+    environment:
+      DATABASE_URL: postgresql://face_velocity:${POSTGRES_PASSWORD}@database:5432/face_velocity
+      DETECTOR_PATH: /app/models/buffalo_l/det_10g.onnx
+      OPENBLAS_NUM_THREADS: "1"
+      OMP_NUM_THREADS: "1"
+      RECOGNIZER_PATH: /app/models/casia_r50/cisia_r50.onnx
+    volumes:
+      - ./models:/app/models:ro
+      - ./data:/app/data:ro
+      - ./artifacts:/app/artifacts:ro
+    ports:
+      - "127.0.0.1:${API_PORT:-8001}:8000"
+    depends_on:
+      database:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health', timeout=5)"]
+      interval: 10s
+      timeout: 6s
+      start_period: 180s
+      retries: 6
+volumes:
+  database_data:

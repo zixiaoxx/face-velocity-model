@@ -1,0 +1,16 @@
+*
+!Dockerfile
+!pyproject.toml
+!uv.lock
+!face_velocity/
+!face_velocity/**
+!evaluation/
+!evaluation/**
+!scripts/
+!scripts/**
+!tests/
+!tests/**
+!config/
+!config/**
+**/__pycache__/
+**/*.pyc
