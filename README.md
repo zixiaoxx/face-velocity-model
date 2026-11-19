@@ -4,6 +4,8 @@ Count a person's distinct image submissions in a rolling 24-hour window using
 face embeddings and a dynamic identity gallery. This repository reproduces the
 experiments and local demo in the interview presentation. No backbone is trained.
 
+[View the interview presentation (PowerPoint)](face_velocity.pptx)
+
 ## Quick start: reproduce the main results
 
 **Requirements:** Python 3.12 and the three
